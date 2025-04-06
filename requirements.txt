@@ -1,5 +1,5 @@
-imutils
-opencv-contrib-python
+imutils==0.5.4
+opencv-contrib-python==4.11.0.86
 ultralytics==8.3.102
 ultralytics-thop==2.0.14
 lap==0.5.12
